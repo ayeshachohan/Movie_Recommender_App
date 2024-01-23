@@ -44,7 +44,10 @@ The project is organized as follows:
 
 ## Example
 
-![Car Image](https://github.com/ayeshachohan/Car_Prediction_Regression_Model/assets/123968536/d9beb7ce-a67d-4b34-a2ac-1ac91effd7ac)
+User
+<img width="1440" alt="Screenshot 2024-01-23 at 12.52.27 AM.png" src="https://github.com/ayeshachohan/Movie_Recommender_App/blob/main/Screenshot%202024-01-23%20at%2012.52.27%20AM.png "> 
+
+
 
 
 ## Credits

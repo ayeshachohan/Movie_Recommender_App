@@ -44,7 +44,7 @@ The project is organized as follows:
 
 ## Example
 
-![App Screenshot](./app_screenshot.png)
+![Uploading Screenshot 2024-01-23 at 12.52.27 AM.png…]()
 
 ## Credits
 
